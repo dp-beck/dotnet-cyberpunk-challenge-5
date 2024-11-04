@@ -1,3 +1,6 @@
+# Admin Endpoint
+The Admin endpoint is <URL>/api/NetRunnerAdministration
+
 # Cyberpunk Challenge 5
 
 ## Objectives
